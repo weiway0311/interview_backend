@@ -22,6 +22,7 @@ Spring Boot 與 React 製作的電商練習專案
 ### Frontend
 - React
 - Vite
+- JavaScript (ES6+)
 - Axios
 - React Router
 
@@ -84,7 +85,7 @@ Spring Boot 與 React 製作的電商練習專案
 
 ###### 1. Clone 專案 ######
 
-git clone https://github.com/your-name/project-name.git
+git clone https://github.com/weiway0311/interview_backend.git
 
 ---
 
